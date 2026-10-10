@@ -90,3 +90,39 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   text-wrap: balance;
 }
+
+.resume h1 {
+  font-size: 250%;
+}
+
+.resume h1,
+.resume > p {
+  text-align: center;
+}
+
+.resume .contact-info {
+  border-top: 1px solid oklch(12.082% 0.01324 207.345);
+  border-bottom: 1px solid oklch(12.082% 0.01324 207.345);
+  padding: 0.5em 0;
+}
+
+.resume h2 {
+  border-bottom: 1px solid oklch(12.082% 0.01324 207.345);
+  padding-bottom: 0.3em;
+}
+
+.resume .education {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.resume section h3 {
+  margin-bottom: 0.1em;
+}
+
+.education-details p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
