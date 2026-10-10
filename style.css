@@ -119,10 +119,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .resume section h3 {
-  margin-bottom: 0.1em;
+  margin-bottom: 0.3em;
 }
 
-.education-details p {
+.education p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.experience p {
   margin-top: 0;
   margin-bottom: 0;
 }
