@@ -1,62 +1,73 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
+        "title": "DSC 106 Lab 0: Setup",
+        "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci fugit labore doloremque, accusantium accusamus repudiandae esse repellendus inventore error tenetur similique neque eaque, laboriosam eligendi earum quisquam sint aliquid provident!"
+        "description": "In this lab, we will prepare our local environment for the course labs and assignments. We recommend you follow this guide step by step, but if you are already familiar with some of the tools, feel free to skip ahead."
     },
     {
-        "title": "Totam vel atque error!",
+        "title": "DSC 106 Lab 1: Introduction to the Web platform",
+        "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Beatae eaque, neque error suscipit laudantium deleniti quibusdam unde. Itaque cumque, culpa error saepe assumenda, neque rem mollitia et hic dolorem quam quibusdam commodi qui, reiciendis quaerat nesciunt quidem sed."
+        "description": "In this lab, we will learn: How does the Web work? What happens when I enter a URL in my browser and hit Enter? What languages are used to create webpages, what is each for, and what are their differences? How to write good HTML? How do CSS and JS look like, and how do we include them in our HTML? How can we create our own webpage and publish it on the Web?"
     },
     {
-        "title": "Sit suscipit itaque sunt.",
+        "title": "DSC 106 Lab 2: Styling with CSS",
+        "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Veniam iure assumenda cupiditate maxime totam ea est vel inventore repudiandae quo. Impedit, earum rerum doloremque ut, facere hic qui necessitatibus ullam assumenda minima illo quis, quam non ex odit?"
+        "description": "In this lab, we learned the core concepts of CSS, how to use CSS selectors to target HTML elements, the difference between absolute and relative units, how to customize fonts, colors, and layouts, and how CSS resolves conflicting style declarations."    },
+    {
+        "title": "DSC 106 Lab 3: Introduction to JS",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "In this lab, we learned the basics of JavaScript, fundamental programming concepts, JavaScript and JSON data types, how to select and manipulate DOM elements, how to dynamically create and add elements to a webpage, and how to respond to user interactions using events."
     },
     {
-        "title": "Obcaecati corrupti eius laboriosam.",
+        "title": "DSC 106 Lab 4: JavaScript II",
+        "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Provident officiis, maiores aperiam odio cum cupiditate, recusandae quis libero voluptates sed neque. Blanditiis exercitationem odio modi quibusdam cumque doloribus labore praesentium dolorem, quia atque, expedita, neque consectetur officiis ab!"
+        "description": "In this lab, we learned how to organize code using modular JavaScript, dynamically manipulate the DOM and use template literals to generate content, and fetch and display API data to create a more interactive user experience."
     },
     {
-        "title": "Enim iure quidem velit.",
+        "title": "DSC 106 Lab 5: Visualizing categorical data with D3",
+        "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quaerat quasi, architecto quas nobis at sunt animi minima et minus ipsam quo doloremque iusto unde dolorem. Sit modi corrupti dolores, fugit beatae eius molestiae aspernatur excepturi deleniti dolor quod?"
+        "description": "In this lab, we learned about SVG and D3, how to create pie charts, build reactive visualizations for changing data, create interactive visualizations that update displayed data, and make visualizations accessible to users."
     },
     {
-        "title": "Deleniti iusto veritatis facilis.",
+        "title": "DSC 152 Lab 1: Introduction to R",
+        "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Culpa corrupti nulla reprehenderit dolorem enim alias molestiae sunt quisquam recusandae magnam cumque ipsa deleniti voluptate quos excepturi cupiditate blanditiis laudantium porro veritatis eius eos voluptatibus, mollitia harum. Rerum, beatae."
+        "description": "In this lab, we learned the basics of R for statistical data science, including creating vectors, matrices, and dataframes, selecting elements and columns, using loops and random sampling, and writing functions that work with individual values or entire vectors."
     },
     {
-        "title": "Porro fuga natus alias.",
+        "title": "DSC 152 Lab 2: Type I Error Rate and Power",
+        "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Ipsa unde qui hic quisquam laudantium debitis doloremque facere pariatur dicta adipisci mollitia cumque, quasi molestiae fugit cum laborum? Consequuntur dolores odit maiores consectetur non ipsum placeat iure officia commodi!"
+        "description": "In this lab, we will continue working with R to explore the concepts of Type I Error rates and Statistical Power."
     },
     {
-        "title": "Recusandae vitae alias atque?",
+        "title": "DSC 152 Lab 3: Effect Size, A/B Testing",
+        "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Laudantium soluta excepturi nisi placeat facere libero, similique sit a fuga veniam natus error quasi laborum. Iusto, possimus cumque eos dolore alias, laboriosam praesentium incidunt consequatur, expedita reiciendis odit vero!"
+        "description": "In this lab, you will investigate why a small p-value does not necessarily mean a large or useful effect. Then you will build a permutation test and use simulation to compare its power with a two-sample t-test."
     },
     {
-        "title": "Fuga ullam ipsam enim.",
+        "title": "DSC 152 Lab 4: Statistical Inference in Linear Models",
+        "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quis ratione libero beatae dolorum iure? Obcaecati aspernatur autem ex voluptatem mollitia doloremque dolorem culpa commodi rem recusandae deleniti ut maiores in, illo, numquam doloribus a? Modi, ex. Similique, quos."
+        "description": "In this lab, you learned how to perform statistical inference in linear models, interpret regression coefficients, test hypotheses about relationships between variables, and understand how to draw conclusions from regression results."
     },
     {
-        "title": "Cum, impedit? Eveniet, odit!",
+        "title": "DSC 152 HW 1: One Sample Type I Errors and PowerDataset (TSV)",
+        "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Porro harum natus velit qui rem nobis. Doloribus reiciendis at commodi maiores quasi ad eligendi inventore quos. Totam blanditiis hic aspernatur consequatur sapiente repellat ad veniam, eius unde fugiat cum!"
+        "description": "This homework is worth 30 points and covers Lectures 1–4 and Labs 1–2."
     },
     {
-        "title": "Cum delectus laudantium sequi.",
+        "title": "DSC 80 Final Project: Recipe Rating Prediction and Analysis",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quidem a perferendis placeat commodi veritatis id vitae asperiores, totam cupiditate. In nobis rerum perferendis ratione, explicabo non fuga vitae ea, maiores voluptatibus aperiam, praesentium qui nostrum eos error aut?"
-    },
-    {
-        "title": "Architecto illo repellendus maxime?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Excepturi quod voluptatibus illo distinctio perferendis? Maiores explicabo dolor tenetur libero facilis modi sint numquam quos, quae enim reprehenderit praesentium ratione, amet placeat. Omnis repudiandae fuga, voluptatibus inventore dolores tempore!"
+        "description": "In this project, I'm working with the Recipes and Ratings datasets to analyze what types of recipes tend to have higher average ratings."
     }
 ]
