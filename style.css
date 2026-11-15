@@ -289,3 +289,10 @@ dl.info[hidden]:not(:hover, :focus-within) {
 circle.selected {
   fill: #ff6b6b;
 }
+
+article img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+}
