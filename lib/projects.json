@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bikewatching",
+        "image": "images/bikewatching.png",
+        "description": "An immersive, interactive map visualization of bike traffic in the Boston area during different times of the day.",
+        "year": 2026,
+        "url": "https://pndo06.github.io/bikewatching/"
+    },
+    {
         "title": "DSC 106 Lab 0: Setup",
         "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
